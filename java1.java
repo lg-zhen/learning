@@ -1,2 +1,0 @@
-class 
-  class not found
